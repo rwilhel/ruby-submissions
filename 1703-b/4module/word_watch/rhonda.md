@@ -17,6 +17,7 @@ Evaluated by:
 Above Expectations
 
 Meets Expectations
+Implemented logic to complete challenges 1-3, but ran into a bug which wouldn't implement challenege 2 effectively.
 
 Below Expectations
 
@@ -34,6 +35,7 @@ Above Expectations
 Meets Expectations
 
 Below Expectations
+I attempted to break out the functions, but could have written higher quality code.
 
 ### 3. Events and DOM manipulation
   * Developer resgisters event listeners within `document.ready`.
@@ -43,6 +45,7 @@ Below Expectations
 Above Expectations
 
 Meets Expectations
+I tried to maintain event listeners within document.ready with reference to css selectors for DOM manipulation/traversal.
 
 Below Expectations
 
@@ -58,6 +61,7 @@ Below Expectations
 Above Expectations
 
 Meets Expectations
+I tried to maintain consistency with use of semicolons, variable naming and case.
 
 Below Expectations
 
